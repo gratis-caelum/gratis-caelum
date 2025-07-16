@@ -53,7 +53,6 @@
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gratis-caelum&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gratis-caelum&layout=compact&theme=dracula&hide=javascript,html,css,scss,c++)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
