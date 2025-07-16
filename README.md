@@ -1,3 +1,14 @@
+네, 그 부분도 수정 가능합니다!
+
+지금 화면에 보이는 C++ 원형 차트는 사용하고 계신 GitHub 통계 카드의 특정 디자인/테마가 언어 하나를 강조해서 보여주기 때문에 나타나는 문제입니다.
+
+제가 제안 드리는 표준 통계 카드를 사용하시면, 그 C++ 원형 차트가 없는 깔끔한 디자인의 카드가 표시됩니다. 이 카드는 언어 비중을 보여주는 대신, 전체적인 기여도(총 커밋, PR, 별 개수 등)에만 집중해서 보여주기 때문에 더 명확하고 전문적으로 보입니다.
+
+아래 GitHub Stats 부분을 통째로 복사해서 붙여넣어 보세요.
+
+최종 README.md 코드 (통계 최종 수정)
+Markdown
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=180&section=header&text=Chan's%20Github&fontSize=90" />
 </div>
@@ -53,7 +64,7 @@
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gratis-caelum&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gratis-caelum&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gratis-caelum&layout=compact&theme=dracula&hide=javascript,html,css,scss,c++)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
